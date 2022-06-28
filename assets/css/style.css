@@ -16,4 +16,15 @@ body{
     width: auto;
     height: 100vh;
     position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.all{
+    width: auto;
+}
+
+.all .ourCalc{
+    
 }
