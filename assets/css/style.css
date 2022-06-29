@@ -20,6 +20,18 @@ body{
 
 .all{
     width: auto;
+    margin-top: -50px;
+}
+
+.all .heading{
+    margin-bottom: 20px;
+    text-align: center;
+    position: relative;
+}
+
+.all .heading h1{
+    position: relative;
+    font-size: 45px;
 }
 
 .all .ourCalc{
