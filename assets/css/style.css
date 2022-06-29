@@ -35,5 +35,16 @@ body{
 }
 
 .all .ourCalc{
-    
+    width: auto;
 }
+
+.all .ourCalc label{
+    width: auto;
+    display: block;
+}
+
+
+/* .all .ourCalc input{
+    margin-left: 20px;
+
+} */
