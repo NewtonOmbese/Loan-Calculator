@@ -44,6 +44,10 @@ body{
     display: block;
 }
 
+.all .ourCalc input{
+    background-color: #042123;
+}
+
 .all .ourCalc button{
     color: #000;
     width: 85%;
@@ -54,7 +58,7 @@ body{
 
 .all .ourCalc button:hover{
     background: #042123;
-    color: #04ed;
+    color: green;
     letter-spacing: 20px;
     transition: 2s;
 }
