@@ -52,31 +52,10 @@ body{
     position: relative;
 }
 
-.all .ourCalc button::after{
-    content: '';
-    position: absolute;
-    width: 10px;
-    height: 2px;
-    background-color: red;
-    inset: 5;
-    left: 20px;
-    transition: animate 3s;
-}
-
 .all .ourCalc button:hover{
     background: #042123;
     color: #04ed;
     letter-spacing: 20px;
-    transition: 2s ease-in-out;
+    transition: 2s;
 }
 
-.all .ourCalc button::before{
-    content: '';
-    position: absolute;
-    width: 10px;
-    height: 2px;
-    background-color: red;
-    inset: 5;
-    right: 20px;
-    bottom: -1px;
-}
