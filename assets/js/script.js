@@ -3,6 +3,7 @@ let interest = document.getElementById("interestRate");
 let duration = document.getElementById("durationInMonths");
 let computedSum = document.getElementById("calculateTotal");
 let appendedValue = document.getElementById("value");
+let clearAll = document.querySelectorAll("input")
 let accumulatedAmount;
 let totalAmount;
 
@@ -18,6 +19,7 @@ function dhafuYetu(){
     console.log(totalAmount)
     // totalAmount.innerHTML = appendedValue
     appendedValue.append(totalAmount)
-    appendedValue.textContent
+    // document.querySelectorAll("input").value = ""
+    clearAll.forEach(input => input.value = "")
 }
 
