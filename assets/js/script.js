@@ -19,5 +19,4 @@ function dhafuYetu(){
     // totalAmount.innerHTML = appendedValue
     appendedValue.append(totalAmount)
     appendedValue.textContent
-    appendedValue.reset()
 }
