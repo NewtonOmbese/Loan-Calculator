@@ -20,3 +20,4 @@ function dhafuYetu(){
     appendedValue.append(totalAmount)
     appendedValue.textContent
 }
+
