@@ -1,7 +1,8 @@
 let amountLoaning = document.getElementById("amountLoan");
 let interest = document.getElementById("interestRate");
-let duration = document.getElementById("durationInMonths")
-let computedSum = document.getElementById("calculateTotal")
+let duration = document.getElementById("durationInMonths");
+let computedSum = document.getElementById("calculateTotal");
+let appendedValue = document.getElementById("value")
 let accumulatedAmount;
 let totalAmount;
 
@@ -13,5 +14,7 @@ function dhafuYetu(){
     let interestPer = interest.value
     // accumulatedAmount = (interestPer * toBePaid)/100
     accumulatedAmount = (toBePaid * time * interestPer)/100;
-    console.log(parseInt(accumulatedAmount))
+    // console.log(parseInt(accumulatedAmount))
+    totalAmount = parseInt(accumulatedAmount) + parseInt(toBePaid)
+    console.log(totalAmount)
 }
