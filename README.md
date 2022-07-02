@@ -28,3 +28,12 @@ As a user of the application,you will be able to :
 4. Compute the calculation by clicking on a calculate button
 5. Output the total amount to be paid back
 
+###  Requirements
+
+ * Access to  a computer or any other garget
+
+ * Access to internet
+
+ * Access to applicable text editors and web browser
+
+ 
