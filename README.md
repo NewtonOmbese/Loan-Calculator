@@ -47,3 +47,10 @@ As a user of the application,you will be able to :
 
 ### Live Link
 * The live link for the project is 
+
+### Technology  Used
+* HTML - which was used to develope the structure off the pages.
+
+* CSS - which was used to style the User Interface.
+
+* JS - which was used to functionalize the web app
