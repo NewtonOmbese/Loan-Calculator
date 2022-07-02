@@ -44,3 +44,6 @@ As a user of the application,you will be able to :
 * Unzip the downloaded files in a folder of choice.
 
 * Open the index file from the zipped file with any browser.
+
+### Live Link
+* The live link for the project is 
