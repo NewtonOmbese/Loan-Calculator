@@ -46,7 +46,7 @@ As a user of the application,you will be able to :
 * Open the index file from the zipped file with any browser.
 
 ### Live Link
-* The live link for the project is 
+* The live link for the project is https://newtonombese.github.io/Loan-Calculator/
 
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
