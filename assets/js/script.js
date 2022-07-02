@@ -18,7 +18,7 @@ function dhafuYetu(){
     totalAmount = parseInt(accumulatedAmount) + parseInt(toBePaid)
     console.log(totalAmount)
     // totalAmount.innerHTML = appendedValue
-    appendedValue.append(totalAmount)
+    appendedValue.textContent = totalAmount
     // document.querySelectorAll("input").value = ""
     clearAll.forEach(input => input.value = "")
 }
