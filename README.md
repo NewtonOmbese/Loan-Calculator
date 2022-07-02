@@ -16,5 +16,15 @@
 - [Authors Info](#Authors-info)
 
 # Description
-<p>This project is helping me in mastering JS well so as to be good at it. It was assigned to be by My Mentor Ezra Njeru</p>
+<p>This project is a loan calculator which help in calculating the total amount to be paid after someone is loaned. The project is also helping me in mastering JS well so as to be good at it. It was assigned to be by My Mentor Ezra Njeru</p>
+
+## Features
+
+As a user of the application,you will be able to :
+
+1. Enter the amount of loan received.
+2. Enter the duration 
+3. Enter interest accumulated
+4. Compute the calculation by clicking on a calculate button
+5. Output the total amount to be paid back
 
