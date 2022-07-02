@@ -14,12 +14,9 @@ function dhafuYetu(){
     let time = duration.value
     let interestPer = interest.value
     accumulatedAmount = (toBePaid * time * interestPer)/100;
-    // console.log(parseInt(accumulatedAmount))
     totalAmount = parseInt(accumulatedAmount) + parseInt(toBePaid)
     console.log(totalAmount)
-    // totalAmount.innerHTML = appendedValue
-    appendedValue.append(totalAmount)
-    // document.querySelectorAll("input").value = ""
+    appendedValue.textContent = totalAmount
     clearAll.forEach(input => input.value = "")
 }
 
